@@ -1,0 +1,13 @@
+POST http://127.0.0.1:5000/advs/
+Content-Type: application/json
+
+{
+  "header": "Продам велосипед",
+  "owner": "Owner name.",
+  "description": "This is a description"
+}
+
+
+###
+
+DELETE http://127.0.0.1:5000/advs/1

@@ -1,0 +1,7 @@
+flask
+requests
+flask_sqlalchemy
+flask-migrate
+Werkzeug
+alembic
+SQLAlchemy
